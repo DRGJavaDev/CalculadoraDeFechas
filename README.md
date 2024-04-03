@@ -26,10 +26,15 @@ Si necesitas ayuda, puedes ejecutar el programa sin argumentos o con h o help co
 
 ## A continuación se muestran algunos ejemplos de uso:
 java -jar CalculadoraFechas.jar CalcularPeriodoEntreFechas "10 03 2024" "07 02 2023"
+
 java -jar CalculadoraFechas.jar calcularDiaDeLaSemana "03 04 2024"
+
 java -jar CalculadoraFechas.jar calcularDiasLaborablesEnUnPeriodo "02 08 2023" "03 04 2024"
+
 java -jar CalculadoraFechas.jar calcularEdad "01 08 1985"
+
 java -jar CalculadoraFechas.jar cambiarFormatoFechas "01 08 1985"
+
 
 
 
